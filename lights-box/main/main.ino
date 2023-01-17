@@ -38,7 +38,6 @@ void setup() {
   pinMode(buttonPin1, INPUT);
   pinMode(buttonPin2, INPUT);
   pinMode(buttonPin3, INPUT);
-  //pinMode(buttonPin4, INPUT);
 
   Serial.begin(9600);
 }
