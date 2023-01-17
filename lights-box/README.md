@@ -23,6 +23,13 @@ Source: [link](https://www.tinkercad.com/things/aPeodcDxiRU?sharecode=F87MerwepC
 
 ![preview](./Light%20-%20Box%20-%20preview.jpg "Preview")
 
+First try welding
+
+![old welding](./mess%20-%20wires%20-%20connectors.jpg "old welding")
+
+Evolution by using plate
+
+![plate welding](./clean%20-%20connectors.jpg "plate welding")
 
 # Sources
 
